@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @KVermi5
-- 👀 I’m interested in learning more about what programming can do.
-- 🌱 I’m currently learning web development fundamentals
-- 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me: kvermi5@wgu.edu
+- 👋 Hi, I’m Kellie!
+- 👀 I’m interested in learning more about what programming can do to better the world around me.
+- 🌱 I’m currently learning web development and good practices for future projects.
+- 💞️ I’m looking to collaborate on programs that will help me further my coding skills!
+- 📫 How to reach me: vermillionkellie@gmail.com
 
 <!---
 KVermi5/KVermi5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
