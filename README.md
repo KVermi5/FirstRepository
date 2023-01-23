@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning more about what programming can do to better the world around me.
 - 🌱 I’m currently learning web development and good practices for future projects.
 - 💞️ I’m looking to collaborate on programs that will help me further my coding skills!
-- 📫 How to reach me: vermillionkellie@gmail.com
+- 📫 How to reach me: kvermi5@my.wgu.edu
 
 <!---
 KVermi5/KVermi5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
